@@ -1,2 +1,2 @@
 # kooka-ai-helper
-ChatGPT based chat bot impersonating Kuanyshbek Abdurazak
+ChatGPT based chat bot impregnating Kuanyshbek Abdurazak
